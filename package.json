@@ -1,0 +1,14 @@
+{
+  "name": "studiaprojekt-5ebc8813b9052a47f9b714400dd493eb5b3feda0",
+  "version": "1.0.0",
+  "description": "na studia",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dcieslak",
+  "license": "ISC",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
